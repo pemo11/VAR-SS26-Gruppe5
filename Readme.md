@@ -4,7 +4,7 @@ Studiengang *Medieninformatik Master* im Sommersemester 2026
 
 Peter Monadjemi, <peter.monadjemi@stud.hs-emden-leer.de>
 
-In diesem Studienprojekt soll ein VR-Projekt mit *Unity* realisiert werden, in dem die an der HS Emden Leer entwickelte *HyperBridge*-Technologie erfahrbar gemacht werden soll.
+In diesem Studienprojekt soll ein VR-Projekt mit *Unity* realisiert werden, das im Rahmen des an HS Emden Leer durchgeführten *HyperBridge*-Projekts eingesetzt werden kann.
 
-Letzte Aktualisierung: **05/05/2026**
+Letzte Aktualisierung: **08/05/2026**
 

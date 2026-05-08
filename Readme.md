@@ -1,4 +1,4 @@
-# Studienprojekt für das Modul *Augmented und Virtual Reality* an der HS Emden Leer
+# Studienprojekt für das Modul *Augmented und Virtual Reality* (AVR) an der HS Emden Leer
 
 Studiengang *Medieninformatik Master* im Sommersemester 2026
 

@@ -187,12 +187,13 @@ Option B:
 
 # Fazit
 
-- HyperBridge ist neu und soll ein Leuchturmprojekt für Emden und damit für Ostfriesland werden
-- HyperLoop klingt sehr futuristisch
+- *HyperBridge* ist neu und soll ein Leuchturmprojekt für Emden und damit für Ostfriesland werden
+- *HyperLoop* klingt futuristisch
 - Eine Röhre schürrt Ängste
 - Im ländlichen Raum werden Veränderungen als Bedrohung wahrgenommen
 - Ein VR-Projekt macht neugierig und erlaubt das Eintauchen in eine andere Welt
 - Die Menschen sollen in 3D erleben, was in naher Zukunft Realität werden könnte
+- Es soll natürlich auch deutlich werden, dass *HyperLoop* primär für lange Distanzen gedacht ist
 
-👉 Eigentlich die einzige realistische Variante, um HyperBridge der Öffentlichkeit vorzustellen
+👉 Eigentlich die einzige realistische Variante, um das *HyperBridge*-Projekt der Öffentlichkeit vorzustellen
 
